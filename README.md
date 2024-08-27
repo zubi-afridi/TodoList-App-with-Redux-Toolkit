@@ -20,7 +20,7 @@ A Todo List application built with React, Redux Toolkit, and Vite. This app supp
 ## Installation
 
 1. **Clone the repository:**
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/zubi-afridi/TodoList-App-with-Redux-Toolkit.git
 2. **Navigate into the project directory**
    cd repository-name
 3. **Install dependencies:**
